@@ -1,0 +1,8 @@
+#labels Featured
+This page describes the concept of the project
+
+The project group-ebay will be used within user created groups. A member of the group can post his/her items for sale and can buy items posted by other member of same group. A user can be member of more than one group.
+
+Contents will be added later.
+
+The project is in conception phase.
