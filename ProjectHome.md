@@ -1,0 +1,1 @@
+The project is used to buy and sell items within a specific group. A user has to be in at least a group to sell buy items.
